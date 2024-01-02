@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🦖 Personal yoshl`s blog</title>
+    <link>https://yo5hl.github.io/posts/</link>
+    <description>Recent content in Posts on 🦖 Personal yoshl`s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2024 Jaime Gómez - Aka. yoshl</copyright>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yo5hl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All bandit levels - Old page</title>
+      <link>https://yo5hl.github.io/posts/century/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/posts/century/</guid>
+      <description>Todos los century, scripting en powershell, explicados a detalle en mi página antigua https;//llo0zy.github.io/</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yo5hl.github.io/posts/century/feature-underthewire.png" />
+    </item>
+    
+    <item>
+      <title>All bandit levels - Old page</title>
+      <link>https://yo5hl.github.io/posts/oldposts/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/posts/oldposts/</guid>
+      <description>Algunos writeups de máquinas forenses que están en mi página antigua y no quiero olvidar :) https;//llo0zy.github.io/</description>
+      
+    </item>
+    
+    <item>
+      <title>All bandit levels - Old page</title>
+      <link>https://yo5hl.github.io/posts/bandit/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/posts/bandit/</guid>
+      <description>Todos los bandits, scripting en bash, explicados a detalle en mi página antigua https;//llo0zy.github.io/</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yo5hl.github.io/posts/bandit/feature-banditlogo.jpg" />
+    </item>
+    
+  </channel>
+</rss>

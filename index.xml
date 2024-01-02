@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🦖 Personal yoshl`s blog</title>
+    <link>https://yo5hl.github.io/</link>
+    <description>Recent content on 🦖 Personal yoshl`s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2024 Jaime Gómez - Aka. yoshl</copyright>
+    <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yo5hl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All bandit levels - Old page</title>
+      <link>https://yo5hl.github.io/posts/century/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/posts/century/</guid>
+      <description>Todos los century, scripting en powershell, explicados a detalle en mi página antigua https;//llo0zy.github.io/</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yo5hl.github.io/posts/century/feature-underthewire.png" />
+    </item>
+    
+    <item>
+      <title>All bandit levels - Old page</title>
+      <link>https://yo5hl.github.io/posts/oldposts/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/posts/oldposts/</guid>
+      <description>Algunos writeups de máquinas forenses que están en mi página antigua y no quiero olvidar :) https;//llo0zy.github.io/</description>
+      
+    </item>
+    
+    <item>
+      <title>All bandit levels - Old page</title>
+      <link>https://yo5hl.github.io/posts/bandit/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/posts/bandit/</guid>
+      <description>Todos los bandits, scripting en bash, explicados a detalle en mi página antigua https;//llo0zy.github.io/</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yo5hl.github.io/posts/bandit/feature-banditlogo.jpg" />
+    </item>
+    
+    <item>
+      <title>El Internet 🕳️</title>
+      <link>https://yo5hl.github.io/networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/networking/</guid>
+      <description>Antes de empezar # Este es un post en el cual volcare todos mis conocimientos acerca de la seguridad informática y las redes como TOR, I2P, GNUNET, freenet&amp;hellip; y mucho más, espero aprender mientras que cuento todo esto, y que podaís aprender la verdadera información que la Clearnet nos quieres ocultar de primeras.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
