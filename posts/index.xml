@@ -9,7 +9,7 @@
     <copyright>© 2024 Jaime Gómez - Aka. yoshl</copyright>
     <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yo5hl.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>All bandit levels - Old page</title>
+      <title>All century levels - Old page</title>
       <link>https://yo5hl.github.io/posts/century/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -19,7 +19,7 @@
     </item>
     
     <item>
-      <title>All bandit levels - Old page</title>
+      <title>Old posts of forensics - Old page</title>
       <link>https://yo5hl.github.io/posts/oldposts/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
       
@@ -36,6 +36,16 @@
       <guid>https://yo5hl.github.io/posts/bandit/</guid>
       <description>Todos los bandits, scripting en bash, explicados a detalle en mi página antigua https;//llo0zy.github.io/</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yo5hl.github.io/posts/bandit/feature-banditlogo.jpg" />
+    </item>
+    
+    <item>
+      <title>Bandit oifhsaiufhkjaf1 (Old page)</title>
+      <link>https://yo5hl.github.io/posts/cat/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yo5hl.github.io/posts/cat/</guid>
+      <description>hola que tal estas vamso va entrar deepwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeb fsjahfhjafhjasgfja flshajkfhsa fasifhga</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://yo5hl.github.io/posts/cat/feature-cat.png" />
     </item>
     
   </channel>
